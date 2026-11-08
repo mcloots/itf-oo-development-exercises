@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Ch02ParcelDelivery",
+    "chapter": "02",
+    "title": "1. Parcel Delivery Quote",
+    "source": "docs\\Exercises\\chapter02-console-problems.md"
+  },
+  {
+    "name": "Ch02MuseumAdmission",
+    "chapter": "02",
+    "title": "2. Museum Admission",
+    "source": "docs\\Exercises\\chapter02-console-problems.md"
+  },
+  {
+    "name": "Ch02WaterBill",
+    "chapter": "02",
+    "title": "3. Water Use Estimate",
+    "source": "docs\\Exercises\\chapter02-console-problems.md"
+  },
+  {
+    "name": "Ch02ProgressReport",
+    "chapter": "02",
+    "title": "4. Diagnose a Wrong Progress Report",
+    "source": "docs\\Exercises\\chapter02-console-problems.md"
+  },
+  {
+    "name": "Ch03WaterBottle",
+    "chapter": "03",
+    "title": "1. A Refillable Water Bottle",
+    "source": "docs\\Exercises\\chapter03-domain-classes.md"
+  },
+  {
+    "name": "Ch03LunchOrder",
+    "chapter": "03",
+    "title": "2. A Lunch Order That Owns Its Total",
+    "source": "docs\\Exercises\\chapter03-domain-classes.md"
+  },
+  {
+    "name": "Ch03ToolLoan",
+    "chapter": "03",
+    "title": "3. A Tool Loan with Allowed Actions",
+    "source": "docs\\Exercises\\chapter03-domain-classes.md"
+  },
+  {
+    "name": "Ch03ScoreCounter",
+    "chapter": "03",
+    "title": "4. A Score Counter and an Unexpected Shared Change",
+    "source": "docs\\Exercises\\chapter03-domain-classes.md"
+  },
+  {
+    "name": "Ch04RoomTemperatures",
+    "chapter": "04",
+    "title": "1. Room Temperatures: Properties and a Fixed Array",
+    "source": "docs\\Exercises\\chapter04-connected-objects.md"
+  },
+  {
+    "name": "Ch04GameShelf",
+    "chapter": "04",
+    "title": "2. A Board Game Shelf: Add, Find, and Remove",
+    "source": "docs\\Exercises\\chapter04-connected-objects.md"
+  },
+  {
+    "name": "Ch04RepairDesk",
+    "chapter": "04",
+    "title": "3. A Repair Desk: Follow Associations and Calculate Totals",
+    "source": "docs\\Exercises\\chapter04-connected-objects.md"
+  },
+  {
+    "name": "Ch04WorkshopRegistration",
+    "chapter": "04",
+    "title": "4. Workshop Registration: Protect a Collection's Rules",
+    "source": "docs\\Exercises\\chapter04-connected-objects.md"
+  },
+  {
+    "name": "Ch05LibraryQueries",
+    "chapter": "05",
+    "title": "1. Library Recommendations: Filter, Sort, and Project",
+    "source": "docs\\Exercises\\chapter05-linq-queries.md"
+  },
+  {
+    "name": "Ch05DeliveryQueries",
+    "chapter": "05",
+    "title": "2. Delivery Planning: Count, Any, and the Next Match",
+    "source": "docs\\Exercises\\chapter05-linq-queries.md"
+  },
+  {
+    "name": "Ch05LoanQueries",
+    "chapter": "05",
+    "title": "3. Tool Loans: Query Through an Association",
+    "source": "docs\\Exercises\\chapter05-linq-queries.md"
+  },
+  {
+    "name": "Ch05QueryResults",
+    "chapter": "05",
+    "title": "4. Equipment Availability: A New List Is Not New Objects",
+    "source": "docs\\Exercises\\chapter05-linq-queries.md"
+  },
+  {
+    "name": "Ch06Parcels",
+    "chapter": "06",
+    "title": "1. Parcel Prices: One Shared Calculation",
+    "source": "docs\\Exercises\\chapter06-inheritance.md"
+  },
+  {
+    "name": "Ch06Equipment",
+    "chapter": "06",
+    "title": "2. Rental Equipment: Two Children",
+    "source": "docs\\Exercises\\chapter06-inheritance.md"
+  },
+  {
+    "name": "Ch06StudioBookings",
+    "chapter": "06",
+    "title": "3. Studio Bookings: Inheritance and Association",
+    "source": "docs\\Exercises\\chapter06-inheritance.md"
+  },
+  {
+    "name": "Ch06PrinterPlanning",
+    "chapter": "06",
+    "title": "4. Printer Planning: Keep Your LINQ Skills",
+    "source": "docs\\Exercises\\chapter06-inheritance.md"
+  },
+  {
+    "name": "Ch07Account",
+    "chapter": "07",
+    "title": "1. Bank Account: Refuse a Withdrawal",
+    "source": "docs\\Exercises\\chapter07-debugging.md"
+  },
+  {
+    "name": "Ch07Booking",
+    "chapter": "07",
+    "title": "2. Seat Booking: Protect Capacity",
+    "source": "docs\\Exercises\\chapter07-debugging.md"
+  },
+  {
+    "name": "Ch07Stock",
+    "chapter": "07",
+    "title": "3. Stock Item: Keep the Last Valid Quantity",
+    "source": "docs\\Exercises\\chapter07-debugging.md"
+  }
+]
